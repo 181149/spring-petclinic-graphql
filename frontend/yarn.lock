@@ -50,9 +50,14 @@
     "@types/history" "*"
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^15.0.27":
+"@types/react@*":
   version "15.0.27"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.27.tgz#d64ad424aa24a101fd50cdeae6eab3d53e65513d"
+
+"@types/react@^15.7.2":
+  version "15.7.3"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-15.7.3.tgz#1120d925630024fc9eb9ee1fa8d3900997b793a9"
+  integrity sha512-6IxQt6orEo7roj99Y5gHSrOa+v9fNccnftgkBsekBuwvjOJYaZsR6HKdvGlFhoL6VmR5b5RXx5Begqx7UQ81+Q==
 
 "@types/webpack-env@^1.13.0":
   version "1.13.0"
