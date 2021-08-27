@@ -29,11 +29,12 @@
     "@types/react" "*"
     moment ">=2.14.0"
 
-"@types/react-dom@^15.5.0":
-  version "15.5.0"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-15.5.0.tgz#7f4fb9613d4051141773242f7b6b5f1a46b34bd9"
+"@types/react-dom@^15.5.13":
+  version "15.5.13"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-15.5.13.tgz#7386e0fd189ab3a997e738eba6f79a339984bf96"
+  integrity sha512-bb4usnBl1ddUdemwSrx7fiPlNYyYhEApty47nsfnlDj906EZuJFbSiNV+eISlxLXav26fLSipQIsKWWKFywgeQ==
   dependencies:
-    "@types/react" "*"
+    "@types/react" "^15"
 
 "@types/react-router-dom@4.0.4":
   version "4.0.4"
@@ -53,6 +54,11 @@
 "@types/react@*", "@types/react@^15.0.27":
   version "15.0.27"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.27.tgz#d64ad424aa24a101fd50cdeae6eab3d53e65513d"
+
+"@types/react@^15":
+  version "15.7.3"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-15.7.3.tgz#1120d925630024fc9eb9ee1fa8d3900997b793a9"
+  integrity sha512-6IxQt6orEo7roj99Y5gHSrOa+v9fNccnftgkBsekBuwvjOJYaZsR6HKdvGlFhoL6VmR5b5RXx5Begqx7UQ81+Q==
 
 "@types/webpack-env@^1.13.0":
   version "1.13.0"
