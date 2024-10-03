@@ -65,7 +65,7 @@
         <dependency>
             <groupId>com.graphql-java</groupId>
             <artifactId>graphql-spring-boot-starter</artifactId>
-            <version>4.0.0</version>
+            <version>4.3.0</version>
         </dependency>
 
         <!-- to embed GraphiQL tool -->
